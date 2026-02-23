@@ -1,0 +1,5 @@
+# Run the scheduler every day at 1:00 AM to update prayer times
+0 1 * * * /path/to/your/athan-automation/athan-scheduler.sh
+
+# The scheduler will automatically add the 5 daily prayer jobs below this line:
+# ATHAN AUTOMATION - Generated ...
